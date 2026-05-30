@@ -1,0 +1,30 @@
+# Core Deep Learning
+torch
+torchvision
+torchsummary
+thop
+timm
+
+# Image Processing
+opencv-python
+Pillow
+tifffile
+imageio
+
+# Data & ML
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+altair
+
+# Streamlit App
+streamlit
+
+# Utilities
+tqdm
+jsonschema
+attrs
