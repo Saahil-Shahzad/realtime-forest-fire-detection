@@ -3,7 +3,9 @@
 This repository contains the code, trained model, and evaluation artifacts for **OTFAN (Optimized Thermal Fire Attention Network)** — a lightweight CNN for wildfire detection from **radiometric thermal TIFF imagery**, built on a MobileNetV4 Conv Small 0.35 backbone with a custom **Optimized Thermal Channel Attention (OTCA)** module.
 
 > **Paper:** *Real-Time Radiometric Thermal Fire Detection with OTFAN: Accuracy Meets Deployability*
+> 
 > Ahmed Mabood, Saahil Shahzad — National University of Sciences and Technology (NUST), Islamabad
+>
 > **Dataset:** [FLAME-3](https://arxiv.org/abs/2412.02831) thermal subset (Sycan Marsh site), 738 images (622 fire / 116 no-fire)
 
 ## What OTFAN does
